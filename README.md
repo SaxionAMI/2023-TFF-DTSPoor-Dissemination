@@ -5,17 +5,17 @@
 ## Modelling
 - [Publications List](https://github.com/SaxionAMI/2023-TFF-DTSPoor-Dissemination/blob/main/studentassignments.md)
 ### Students
-|Method|Implemented By|Publications|Github Repo|Status|
-|:---:|:---:|:---:|:---:|:---:|
-||Ole||https://github.com/SaxionAMI/2023-TFF-DTspoor-Ole||
-||Jean-Louis||https://github.com/SaxionAMI/2023-TFF-DTspoor-Jean-Louis||
-||Jesse||https://github.com/SaxionAMI/2023-TFF-DTspoor-Jesse||
-||Thinh||https://github.com/SaxionAMI/2023-TFF-DTspoor-Thinh||
-||Jasper||https://github.com/SaxionAMI/2023-TFF-DTspoor-Jasper||
-||Bram Dekker||https://github.com/SaxionAMI/2023-TFF-DTspoor-Bram||
-||Jonas||https://github.com/SaxionAMI/2023-TFF-DTspoor-Jonas||
-||Pascal?||https://github.com/SaxionAMI/2022-TFF-DTspoor-BDT||
-||Maksym||https://github.com/SaxionAMI/2022-TFF-DTspoor-Maksym||
+|Method|Implemented By|Publications|Github Repo|Status|Actions required|
+|:---:|:---:|:---:|:---:|:---:|:---:|
+||Ole||https://github.com/SaxionAMI/2023-TFF-DTspoor-Ole|Seems complete||
+||Jean-Louis||https://github.com/SaxionAMI/2023-TFF-DTspoor-Jean-Louis|Empty|Ask Faizan to reach out|
+||Jesse||https://github.com/SaxionAMI/2023-TFF-DTspoor-Jesse|Seems complete||
+||Thinh||https://github.com/SaxionAMI/2023-TFF-DTspoor-Thinh|In progress|Thinh to reach out to Bram Ton|
+||Jasper||https://github.com/SaxionAMI/2023-TFF-DTspoor-Jasper|Seems complete||
+||Bram Dekker||https://github.com/SaxionAMI/2023-TFF-DTspoor-Bram|Empty|Ask Faizan to reach out|
+||Jonas||https://github.com/SaxionAMI/2023-TFF-DTspoor-Jonas|Seems complete|Confirm with Faizan|
+| API and Dockerisation|Pascal and Claudien||https://github.com/SaxionAMI/2022-TFF-DTspoor-BDT|Looks good||
+||Maksym||https://github.com/SaxionAMI/2022-TFF-DTspoor-Maksym|Empty|Not worth archiving|
 ||Bram Dekker?||https://github.com/SaxionAMI/2022-TFF-DTspoor|Can be removed|
 
 ### Internal
