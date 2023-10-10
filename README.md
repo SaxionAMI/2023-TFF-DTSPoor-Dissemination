@@ -3,7 +3,7 @@
 # What's done/versioned, so far?
 
 ## Modelling
-- [Publications List]()
+- [Publications List](https://github.com/SaxionAMI/2023-TFF-DTSPoor-Dissemination/blob/main/studentassignments.md)
 ### Students
 |Method|Implemented By|Publications|Github Repo|Status|
 |:---:|:---:|:---:|:---:|:---:|
