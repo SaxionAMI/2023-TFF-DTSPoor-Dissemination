@@ -7,6 +7,7 @@
 - Bram Ton (2022): Labelled high resolution point cloud dataset of 15 catenary arches in the Netherlands. Version 1. 4TU.ResearchData. dataset. [https://doi.org/10.4121/17048816.v1](https://doi.org/10.4121/17048816.v1)
 ## Student Reports and Graducation Projects
 ### 2023
+- Thinh Cao; Detecting Object Location with Nadir and Oblique Images Using Monoplotting [Link](https://github.com/SaxionAMI/2023-TFF-DTspoor-Thinh)
 - Bram Dekker; Semi-supervised point cloud segmentation on railway data; MSc Thesis Unievrsity of Twente(2023)[Link](https://purl.utwente.nl/essays/97076)
 - Ole F. Salet; Point Cloud-Based Object Detection for the Railroad Environment Using Self-Supervised Learning; Create BSc Thesis Unievrsity of Twente(2023),[Link](https://purl.utwente.nl/essays/96518)
 - Tim H. Uilkema; Selecting the Optimal Machine Learning Framework for LiDAR-Based Railroad Inspection and Maintenance at Strukton Rail: A Comprehensive Evaluation; BIT BSc Thesis Unievrsity of Twente(2023)[Link](https://purl.utwente.nl/essays/96346)
