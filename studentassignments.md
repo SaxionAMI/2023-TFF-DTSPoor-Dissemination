@@ -21,6 +21,8 @@
 - Rutgers, Nils (2022) Point cloud based semantic segmentation for catenary systems using deep learning : Compressibility of a PointNet++ network, Create BSc Thesis University of Twente (2022) [Link] (https://purl.utwente.nl/essays/92901) 
 - Plamen Bozov; 3D point cloud segmentation and automation for railway catenary arches; TCS BSc Thesis University of Twente (2022) [Link](https://purl.utwente.nl/essays/91791)
 - Floris Verburg, Exploring explainability and robustness of point cloud segmentation deep learning model by visualization; TCS BSc Thesis University of Twente (2022) [Link](https://purl.utwente.nl/essays/89440)
+- Jonas Hentschel, Point cloud segmentation via active learning in the context
+of railway infrastructure [Link](https://purl.utwente.nl/essays/94542)
 ### 2021
 - Zino Vieth; Point cloud classification and segmentation of catenary systems; Create BSC Thesis University of Twente (2021) [Link](https://purl.utwente.nl/essays/89565)
 - Egbert Dijkstra; Segmenting small objects in a large point clouds using the Super Point Graph model; TCS BSc Thesis University of Twente [Link(internal access only)](https://saxion.sharepoint.com/:b:/r/teams/o365-team005584/Gedeelde%20documenten/General/Education/2021%20-%20TCS%20graduation%20-%20Egbert%20Dijkstra/bachref_final_paper_2021%20(3).pdf?csf=1&web=1&e=ewwNQV)
