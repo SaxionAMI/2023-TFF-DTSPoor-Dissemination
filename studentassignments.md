@@ -16,7 +16,7 @@
 - Jesse Snoijer; Are classical features still relevant in the era of deep learning?; TCS BSc Thesis Unievrsity of Twente(2023), [Link](https://purl.utwente.nl/essays/96420)
 - Niek Tempert, Immersive visulization of point clouds, graduation project HBO-ICT Saxion  (2023), [Link(internal access only)](https://saxion.sharepoint.com/:b:/r/teams/o365-team005584/Gedeelde%20documenten/DTspoor/Education/2022-Graduation-Niek/DTspoor%20-%20Tempert,%20Niek%20-%20Afstudeerdossier%20Point%20clouds%20in%20augmented%20reality.pdf?csf=1&web=1&e=EVnIdC)
 ### 2022
-- BDT Students, details needed here...
+- Pascal Vorwerk and Claudien ten Velde,
 - Maksym Dryhval, Point-Pillar 3D Object Detection of Mobile Laser Scans of Infrastructure, HBO- ICT Saxion (2022), [Link (internal access only)](https://saxion.sharepoint.com/:b:/r/teams/o365-team005584/Gedeelde%20documenten/DTspoor/Education/2023-Research%20Assignment-Maksym/Point-Pillar%203D%20Object%20Detection%20of%20Terrestrial%20Laser%20Scans%20of%20Railway%20(2).pdf?csf=1&web=1&e=G3jfFa) 
 - Rutgers, Nils (2022) Point cloud based semantic segmentation for catenary systems using deep learning : Compressibility of a PointNet++ network, Create BSc Thesis University of Twente (2022) [Link] (https://purl.utwente.nl/essays/92901) 
 - Plamen Bozov; 3D point cloud segmentation and automation for railway catenary arches; TCS BSc Thesis University of Twente (2022) [Link](https://purl.utwente.nl/essays/91791)
