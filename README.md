@@ -17,6 +17,10 @@
 | API and Dockerisation|Pascal and Claudien||https://github.com/SaxionAMI/2022-TFF-DTspoor-BDT|Looks good||
 ||Maksym||https://github.com/SaxionAMI/2022-TFF-DTspoor-Maksym|Empty|Not worth archiving|
 ||Bram Dekker?||https://github.com/SaxionAMI/2022-TFF-DTspoor|Can be removed|
+||Anthony Anazo, Daniel Actor, Reinier Algra, Joris Jonkers| | n/a| |
+||Artur Dylewski, Jakub Kościołek, Arda Akyazı| | [dataset](https://saxion.data.surfsara.nl/index.php/f/53420755)| |
+
+https://saxion.data.surfsara.nl/index.php/f/53420755
 
 ### Internal
 |Method|Implemented By|Publications|Github Repo|
