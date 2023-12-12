@@ -1,19 +1,21 @@
 # Publications
 ## Journal/Conference Publications
 - Bram Ton, Immersive visulization of point clouds, (Manuscipt in writing)
-- Bram Dekker, Bram Ton, Joanneke Meijer, Nacir Bouali, Jeroen Linssen, Faizan Ahmed; Point cloud analysis of railway infrastructure: a systematic literature review; IEEE Access (submitted)
+- B. Dekker, B. Ton, J. Meijer, N. Bouali, J. Linssen and F. Ahmed, "Point Cloud Analysis of Railway Infrastructure: A Systematic Literature Review," in IEEE Access, vol. 11, pp. 134355-134373, 2023, doi: [10.1109/ACCESS.2023.3337049](https://doi.org/10.1109/ACCESS.2023.3337049).
 - Bram Ton Bram, Faizan Ahmed, and Jeroen Linssen. 2023. "Semantic Segmentation of Terrestrial Laser Scans of Railway Catenary Arches: A Use Case Perspective" Sensors 23, no. 1: 222. [https://doi.org/10.3390/s23010222](https://doi.org/10.3390/s23010222)
 ## Data Publication
 - Bram Ton (2022): Labelled high resolution point cloud dataset of 15 catenary arches in the Netherlands. Version 1. 4TU.ResearchData. dataset. [https://doi.org/10.4121/17048816.v1](https://doi.org/10.4121/17048816.v1)
 ## Student Reports and Graducation Projects
 ### 2023
+- Anthony Anazo, Daniel Actor, Reinier Algra, Joris Jonkers; Detecting Railway Infrastructure using Point Cloud Data; Data Science and AI students - final assignment, University of Twente [report](ds_ai_parta2_object_detection.pdf)
+- Artur Dylewski, Jakub Kościołek, Arda Akyazı; Efficient Object Detection in Railway Environments using YOLOv8; Data Science and AI students - final assignment, University of Twente [report](ds_ai_sign_detection.pdf)
 - Thinh Cao; Detecting Object Location with Nadir and Oblique Images Using Monoplotting [Link](https://github.com/SaxionAMI/2023-TFF-DTspoor-Thinh)
 - Bram Dekker; Semi-supervised point cloud segmentation on railway data; MSc Thesis Unievrsity of Twente(2023)[Link](https://purl.utwente.nl/essays/97076)
-- Ole F. Salet; Point Cloud-Based Object Detection for the Railroad Environment Using Self-Supervised Learning; Create BSc Thesis Unievrsity of Twente(2023),[Link](https://purl.utwente.nl/essays/96518)
-- Tim H. Uilkema; Selecting the Optimal Machine Learning Framework for LiDAR-Based Railroad Inspection and Maintenance at Strukton Rail: A Comprehensive Evaluation; BIT BSc Thesis Unievrsity of Twente(2023)[Link](https://purl.utwente.nl/essays/96346)
-- Jean Louis Clemente; Segmentation of Railway tracks, Contact cables and Catenary cables from a LiDAR Point Cloud; TCS BSc Thesis Unievrsity of Twente(2023), [Link](https://purl.utwente.nl/essays/96550)
-- Jasper van der Werf;Learning Behaviour of Sparse Point-Voxel Convolution: Semantic Segmentation of Railway LiDAR scans; TCS BSc Thesis Unievrsity of Twente(2023), [Link](https://purl.utwente.nl/essays/96106)
-- Jesse Snoijer; Are classical features still relevant in the era of deep learning?; TCS BSc Thesis Unievrsity of Twente(2023), [Link](https://purl.utwente.nl/essays/96420)
+- Ole F. Salet; Point Cloud-Based Object Detection for the Railroad Environment Using Self-Supervised Learning; Create BSc Thesis University of Twente(2023),[Link](https://purl.utwente.nl/essays/96518)
+- Tim H. Uilkema; Selecting the Optimal Machine Learning Framework for LiDAR-Based Railroad Inspection and Maintenance at Strukton Rail: A Comprehensive Evaluation; BIT BSc Thesis University of Twente(2023)[Link](https://purl.utwente.nl/essays/96346)
+- Jean Louis Clemente; Segmentation of Railway tracks, Contact cables and Catenary cables from a LiDAR Point Cloud; TCS BSc Thesis University of Twente(2023), [Link](https://purl.utwente.nl/essays/96550)
+- Jasper van der Werf;Learning Behaviour of Sparse Point-Voxel Convolution: Semantic Segmentation of Railway LiDAR scans; TCS BSc Thesis University of Twente(2023), [Link](https://purl.utwente.nl/essays/96106)
+- Jesse Snoijer; Are classical features still relevant in the era of deep learning?; TCS BSc Thesis University of Twente(2023), [Link](https://purl.utwente.nl/essays/96420)
 - Niek Tempert, Immersive visulization of point clouds, graduation project HBO-ICT Saxion  (2023), [Link(internal access only)](https://saxion.sharepoint.com/:b:/r/teams/o365-team005584/Gedeelde%20documenten/DTspoor/Education/2022-Graduation-Niek/DTspoor%20-%20Tempert,%20Niek%20-%20Afstudeerdossier%20Point%20clouds%20in%20augmented%20reality.pdf?csf=1&web=1&e=EVnIdC)
 ### 2022
 - Pascal Vorwerk and Claudien ten Velde,
