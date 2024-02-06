@@ -24,7 +24,7 @@ In our attempt towards realising this reality model, below is an overview of the
 ## Publications and literature review
 - [Publications List](https://github.com/SaxionAMI/2023-TFF-DTSPoor-Dissemination/blob/main/studentassignments.md)
 - [Literature review](https://github.com/SaxionAMI/RailwayPointcloudLiteratureReview)
-- [Awesome railway datasets](https://github.com/SaxionAMI/awesome-railway-datasets) publicaly available
+- [Awesome railway datasets](https://github.com/SaxionAMI/awesome-railway-datasets) publicly available
 
 ## Codebases 
 
