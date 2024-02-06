@@ -43,7 +43,7 @@ In our attempt towards realising this reality model, below is an overview of the
 |Bram Ton|https://github.com/SaxionAMI/2022-TFF-DTspoor-mmdetection3d|See the publications list|
 |Maksym Drhval​|https://github.com/SaxionAMI/2022-TFF-DTspoor-Maksym|[Report(internal access only)](https://saxion.sharepoint.com/:b:/r/teams/o365-team005584/Gedeelde%20documenten/DTspoor/Education/2023-Research%20Assignment-Maksym/Point-Pillar%203D%20Object%20Detection%20of%20Terrestrial%20Laser%20Scans%20of%20Railway%20(2).pdf?csf=1&web=1&e=G3jfFa)|
 |Ole Salet|https://github.com/SaxionAMI/2023-TFF-DTspoor-Ole|[Report](https://purl.utwente.nl/essays/97076)|
-|Anthony Anazo, Daniel Actor, Reinier Algra, Joris Jonkers​||[Report](https://github.com/SaxionAMI/2023-TFF-DTSPoor-Dissemination/blob/main/ds_ai_parta2_object_detection.pdf)|
+|Anthony Anazo, Daniel Actor, Reinier Algra, Joris Jonkers​|---|[Report](https://github.com/SaxionAMI/2023-TFF-DTSPoor-Dissemination/blob/main/ds_ai_parta2_object_detection.pdf)|
 |Nils Rutgers​|---|[Report](https://purl.utwente.nl/essays/92901)|
 |Jesse Snoijer​|https://github.com/SaxionAMI/2023-TFF-DTspoor-Jesse|[Report](https://purl.utwente.nl/essays/96420)|
 
