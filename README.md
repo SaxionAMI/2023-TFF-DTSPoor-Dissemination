@@ -1,4 +1,4 @@
-|![Tech for future](Images/T4F-volledig-logo.svg)|![Saxion](Images/saxion.png)|
+|![Tech for future](images/T4F-volledig-logo.svg)|![Saxion](images/saxion.png)|
 
 # [About this project](https://www.saxion.nl/onderzoek/smart-industry/ambient-intelligence/digital-twinning-voor-spoorontwerp)
 
