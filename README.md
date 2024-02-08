@@ -17,12 +17,12 @@ of a physical scenario.
 Arda Akyazi​, Plamen Bozov​, Anthony Anazo, Daniel Actor, Reinier Algra, Joris Jonkers​, Jasper van der Werf​, Nils Rutgers​, Bram Dekker​, 
 Jesse Snoijer and many more.
 
-# [Output](https://github.com/SaxionAMI/2023-TFF-DTSPoor-Dissemination)
+# [Output](https://github.com/SaxionAMI/DTSpoor)
 
 In our attempt towards realising this reality model, below is an overview of the project output.
 
 ## Publications and literature review
-- [Publications List](https://github.com/SaxionAMI/2023-TFF-DTSPoor-Dissemination/blob/main/studentassignments.md)
+- [Publications List](https://github.com/SaxionAMI/DTspoor/blob/main/studentassignments.md)
 - [Literature review](https://github.com/SaxionAMI/RailwayPointcloudLiteratureReview)
 - [Awesome railway datasets](https://github.com/SaxionAMI/awesome-railway-datasets) publicly available
 
@@ -52,7 +52,7 @@ In our attempt towards realising this reality model, below is an overview of the
 |:---:|:---:|:---:|
 |Annemarie Jutte|[Link to repo](https://github.com/SaxionAMI/2023-TFF-DTSpoor-Annemarie)|---|
 |Thinh Cao​|[Link to repo](https://github.com/SaxionAMI/2023-TFF-DTspoor-Thinh)|---|
-|Artur Dylewski, Jakub Kosciolek, Arda Akyazi​|[dataset](https://saxion.data.surfsara.nl/index.php/f/53420755)|[Report](https://github.com/SaxionAMI/2023-TFF-DTSPoor-Dissemination/blob/main/ds_ai_sign_detection.pdf)|
+|Artur Dylewski, Jakub Kosciolek, Arda Akyazi​|[dataset](https://saxion.data.surfsara.nl/index.php/f/53420755)|[Report](https://github.com/SaxionAMI/DTspoor/blob/main/ds_ai_sign_detection.pdf)|
 
 ### AR/VR visualisation
 |Name|Github Repo|Publication|
